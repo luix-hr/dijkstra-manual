@@ -38,22 +38,24 @@ O algoritmo de Dijkstra é utilizado para encontrar o caminho mais curto a parti
 
 1. Clone o repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/dijkstra-manual.git
+   git clone https://github.com/luix-hr/dijkstra-manual.git
 
 2. Compile e execute o código:
 
-javac DijkstraManual.java
-java DijkstraManual
-
+  ```bash
+$ javac DijkstraManual.java
+$ java DijkstraManual
+```
 3. O algoritmo exibirá as distâncias mínimas a partir do vértice de origem.
 
 ## Exemplo de Saída
-Vértice    Distância da origem
-0          0
-1          8
-2          9
-3          7
-4          5
+| Vértice | Distância da origem |
+|---------|---------------------|
+| 0       | 0                   |
+| 1       | 8                   |
+| 2       | 9                   |
+| 3       | 7                   |
+| 4       | 5                   |
 
 ## Contribuições
 Sinta-se à vontade para fazer um fork deste projeto, melhorar o código ou sugerir novas funcionalidades. Se você encontrar algum erro, por favor, abra uma issue para que possamos corrigir.
