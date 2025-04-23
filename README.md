@@ -61,4 +61,4 @@ $ java DijkstraManual
 Sinta-se à vontade para fazer um fork deste projeto, melhorar o código ou sugerir novas funcionalidades. Se você encontrar algum erro, por favor, abra uma issue para que possamos corrigir.
 
 ## Licença
-Este projeto é de código aberto, licenciado sob a licença MIT. Veja o arquivo LICENSE para mais informações.
+Este projeto é de código aberto, licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
